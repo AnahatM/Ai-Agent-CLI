@@ -5,7 +5,7 @@ This repository provides a barebones framework for a custom AI agent.
 All code and functions are organized and documented.
 
 [![Anahat's Website](https://img.shields.io/badge/Developer_Website-AnahatMudgal.com-navy)](https://AnahatMudgal.com)
-[![App Website Page](https://img.shields.io/badge/App_Webpage-AI_Agent_CLI-seagreen)](https://AnahatMudgal.com)
+[![App Website Page](https://img.shields.io/badge/App_Webpage-AI_Agent_CLI-seagreen)](https://AnahatMudgal.com/development/ai-agent-cli)
 
 ## Technologies
 
